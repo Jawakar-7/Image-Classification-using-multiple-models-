@@ -1,0 +1,1 @@
+In this  project I will be exploring multiple image classification models such as CNN, Resnet,VGG16,Iception13 to classify the Intel image Dataset with 6 classes .
